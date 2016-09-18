@@ -82,4 +82,6 @@ main(){
 First Header | Second Header
 ------------ | -------------
 cell 1       | cell 2
+
+tips: use <br> to make multiple lines in a cell.
 ```
