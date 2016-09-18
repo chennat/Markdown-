@@ -64,12 +64,13 @@ For more details. visit www.emoji-cheat-sheet.com
 ```
 
 ## Code Blocks with highlighting.
-```c
+```
+\```c
 #include <stdio.h>
 main(){
   printf("hello world!");
 }
-tips: indicate programming language type after the first ''' characters
+\```
 ```
 
 ## Task Lists
