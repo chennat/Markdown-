@@ -69,6 +69,7 @@ For more details. visit www.emoji-cheat-sheet.com
 main(){
   printf("hello world!");
 }
+tips: indicate programming language type after the first ''' characters
 ```
 
 ## Task Lists
